@@ -1,4 +1,4 @@
-# Disease-Type-Prediction-Application
+# Disease Type Prediction Application
 This project implements a **machine learning-based application** to predict disease types from patient medical data.  
 
 
